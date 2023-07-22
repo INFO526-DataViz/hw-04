@@ -1,7 +1,8 @@
 ---
 title: "HW 04"
 author: "INSERT YOUR NAME HERE"
-output: github_document
+format: html
+toc: true
 ---
 
 ```{r load-packages, message = FALSE}
@@ -10,9 +11,10 @@ library(tidyverse)
 ```
 
 
-1.  **Degrees over time.**
+## 1 - Degrees over time 
 
-```{r label-me-1}
+```{r}
+#| label: label-me-1
 
 ```
 
@@ -22,13 +24,15 @@ library(tidyverse)
 
 3.  **Country populations.**
 
-```{r label-me-3}
+```{r}
+#| label: label-me-3
 
 ```
 
 4.  **Battle of the newspapers.**
 
-```{r label-me-4}
+```{r}
+#| label: label-me-4
 
 ```
 
