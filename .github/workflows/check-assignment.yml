@@ -11,7 +11,7 @@ jobs:
     - name: Check Files
       run: |
         checklist::quit_on_failure({
-          checklist::check_allowed_files(c("hw-04.qmd", "hw-04.Rproj", "README\..*", "data/*.csv", "images/*.png"))
+          checklist::check_allowed_files(c("hw-04.qmd", "hw-04.Rproj", "README.md", "data/*.csv", "images/*.png"))
         })
       shell: Rscript {0}
   
