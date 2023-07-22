@@ -12,6 +12,14 @@ you’re done, inspect your GitHub repo to make sure it has all the
 components you want to submit in the hw-03.md file, including the prose,
 the code, and all plots.
 
+Data sources:
+
+- `BA_degrees.csv`: https://wilkelab.org/SDS375/datasets/BA_degrees.csv
+- `country-pop.csv`: https://data.worldbank.org/indicator/SP.POP.TOTL
+- Newspaper headlines: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HSZ2QL
+	- `baltimore_sun_2019.csv`
+	- `charlotte_observer_2019.csv`
+
 1.  **Degrees over time.** For this exercise you will work with data on
     the proportions of Bachelor’s degrees awarded in the US between 1970
     and 2015. The dataset you will use is in your `data/` folder and
