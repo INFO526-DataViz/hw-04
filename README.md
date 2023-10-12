@@ -56,16 +56,7 @@ Data sources:
         `forcats::fct_other()` for the data wrangling.) Use the same
         color scale and theme as the previous plot.
 
-2.  **That’s what our guest said.** We had a guest lecture by Dr. Kieran
-    Healy on Wednesday, October 20. You’ve either attended that guest
-    lecture in person or you should have watched the recording on
-    Panopto by now. Write a one paragraph summary of the guest lecture.
-    Make sure your summary includes at least one thing that you didn’t
-    know before. This can be a tip for better visualization, a
-    tool/package, or a workflow. Your answer can be just text or also
-    include code.
-
-3.  **Country populations.** For this exercise you will work with data
+2.  **Country populations.** For this exercise you will work with data
     on country populations. The data come from [The World
     Bank](https://data.worldbank.org/indicator/SP.POP.TOTL). The dataset
     you will use is in your `data/` folder and it’s called
@@ -86,7 +77,7 @@ Data sources:
         population for these countries. (*Tip:* We’ll go over how to
         include gifs in R Markdown files during the Animation lecture.)
 
-4.  **Battle of the newspapers.** For this exercise you will work with
+3.  **Battle of the newspapers.** For this exercise you will work with
     data on headlines from The Charlotte Observer and The Baltimore Sun.
     The data come from the publication titled “A method for measuring
     investigative journalism in local newspapers” ([Turkel et al.,
@@ -119,7 +110,7 @@ Data sources:
         based on this combined dataset, this time using faceting instead
         of patchwork.
 
-5.  **Brexit.** In September 2019, [YouGov
+4.  **Brexit.** In September 2019, [YouGov
     survey](https://d25d2506sfb94s.cloudfront.net/cumulus_uploads/document/x0msmggx08/YouGov%20-%20Brexit%20and%202019%20election.pdf)
     asked 1,639 Great Britain adults the following question:
 
