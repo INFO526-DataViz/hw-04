@@ -33,7 +33,7 @@ Dear [STUDENT GITHUB NAME] -- Below is the feedback for your assignment. Please 
 
   - Data loading w/ `skip`: `[_ / 5]`
   - Summarising: `[_ / 5]`
-  - Animating racing bar chart: `[_ / 10]`
+  - Bar chart: `[_ / 10]`
   - Feedback: [Insert feedback here.]
 
 
