@@ -70,12 +70,10 @@ Data sources:
         -   Make sure there are no extraneous columns by removing them.
         -   Use `janitor::clean_names()`
 
-    -   Find the countries with the top 10 highest population count
-        in 2020. Subset the data for just these 10 counries.
+    -   Find the _countries_ with the top 10 highest population count
+        in 2020. Subset the data for just these 10 countries.
 
-    -   Create a racing bar chart, using **gganimate** for the change in
-        population for these countries. (*Tip:* We’ll go over how to
-        include gifs in R Markdown files during the Animation lecture.)
+    -   Create a bar chart showing the top 10 countries.
 
 3.  **Battle of the newspapers.** For this exercise you will work with
     data on headlines from The Charlotte Observer and The Baltimore Sun.
